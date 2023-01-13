@@ -44,12 +44,12 @@
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type git clone, and then paste the URL you copied earlier.
 ```
-git clone github.com/Faris-abukhader/mawdoo3-scrapper
+git clone github.com/Faris-abukhader/mhtwyat-scrapper
 ```
 Press Enter to create your local clone
 ```
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `mawdoo3-scrapper`...
+> Cloning into `mhtwyat-scrapper`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
