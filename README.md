@@ -114,4 +114,4 @@ pip install -r requirements.txt
 
 ## 📜 License
 
-This software is licensed under the [MIT](https://github.com/Faris-abukhader/mhtwyat-scrapper/blob/main/license) © [FaRiS](https://github.com/Faris-abukhader).
+This software is licensed under the [MIT](https://github.com/Faris-abukhader/mhtwyat-scrapper/blob/main/LICENSE) © [FaRiS](https://github.com/Faris-abukhader).
