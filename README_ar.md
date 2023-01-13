@@ -113,4 +113,4 @@ pip install -r requirements.txt
 
 ## 📜 الرخصة
 
-هذا المشروع تحت رخصة [MIT](https://github.com/Faris-abukhader/mhtywat-scrapper/blob/main/license) © [FaRiS](https://github.com/Faris-abukhader).
+هذا المشروع تحت رخصة [MIT](https://github.com/Faris-abukhader/mhtwyat-scrapper/blob/main/LICENSE) © [FaRiS](https://github.com/Faris-abukhader).
