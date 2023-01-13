@@ -21,7 +21,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/1436/1436664.png" width="25" height="25" style="padding-right:15px">  Introduction 
 
 <p>
-<b>Warning</b>: This project is only for study purpose , please don’t re-share these articles under your name , all these articles is only belongs to Mawdoo3 . 
+<b>Warning</b>: This project is only for study purpose , please don’t re-share these articles under your name , all these articles is only belongs to Mhtwyat . 
 </br>
 </br>
 <h1>how to get 144k articles and more . . .  ?!</h1>
